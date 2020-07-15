@@ -114,7 +114,7 @@
       11	x	11	=	9	x	9
       9	x	9	=	7	x	7
       7	x	7	=	5	x	5
-      5	x	5	=	3	x	3s
+      5	x	5	=	3	x	3
       3	x	3	=	1	x	1
 
   So in total it would take around 99 convolutions
