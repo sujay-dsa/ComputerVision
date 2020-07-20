@@ -121,7 +121,7 @@
 
   > ### How are kernels initialized?
 
-  Kernels are intialized with random numbers between 0 and 1. Having a lower and upper limit allows the neural net to understand relative magnitude and make more appropriate changes to the values of the kernel. 
+  Kernels are intialized with random numbers between -1 and 1. Having a lower and upper limit allows the neural net to understand relative magnitude and make more appropriate changes to the values of the kernel. 
 
   > ### What happens during the training of a DNN?
   > 
